@@ -1,0 +1,4 @@
+hint = Instance.new("Hint",game.CoreGui)
+hint.Text = "ตำรวจตานี้ไก่เชื่อกูไอ้เกแก่"
+task.wait(60)
+hint:Destroy()
